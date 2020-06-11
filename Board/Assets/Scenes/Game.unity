@@ -5369,7 +5369,6 @@ MonoBehaviour:
   purchasedItem: {fileID: 0}
   statsPanel: {fileID: 1449396885}
   statsPanelShift: {x: 1.2, y: 1.8}
-  viewedUnit: {fileID: 0}
   healthText: {fileID: 1543313723}
   armorText: {fileID: 722440540}
   attackDamageText: {fileID: 580238145}
